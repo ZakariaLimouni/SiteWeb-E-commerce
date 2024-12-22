@@ -1,0 +1,100 @@
+{
+  "produits": [
+    {
+      "ID": 1,
+      "title": "SWEAT BASIC CAPUCHE",
+      "prix": 250 ,
+      "photoProduit": "Image/image1.png"
+    },
+    {
+      "ID": 2,
+      "title": "SWEAT À CAPUCHE UNIVERSITAIRE AVEC LETTRES FLOQUÉES",
+      "prix": 350,
+      "photoProduit": "Image/image2.png"
+    },
+    {
+      "ID": 3,
+      "title": "SWEAT À CAPUCHE UNIVERSITAIRE AVEC ÉCUSSON",
+      "prix":200 ,
+      "photoProduit": "Image/image3.png"
+    },
+    {
+      "ID": 4,
+      "title": "SWEAT BASIC CAPUCH",
+      "prix":250 ,
+      "photoProduit": "Image/image4.png"
+    },
+    {
+      "ID": 5,
+      "title": "Sweat oversize racing",
+      "prix":150,
+      "photoProduit": "Image/image5.png"
+    },
+    {
+      "ID": 6,
+      "title": "Sweat col rond Tupac",
+      "prix":150 ,
+      "photoProduit": "Image/image6.png"
+    },
+    {
+      "ID": 7,
+      "title": "Sweat imprimé Nirvana",
+      "prix":200 ,
+      "photoProduit": "Image/image7.png"
+    },
+    {
+      "ID": 8,
+      "title": "Sweat oversize effet délavé imprimé",
+      "prix":180 ,
+      "photoProduit": "Image/image8.png"
+    },
+    {
+      "ID": 9,
+      "title": "JEAN CARGO BASIQUE",
+      "prix":400 ,
+      "photoProduit": "Image/image9.png"
+    },
+    {
+      "ID": 10,
+      "title": "JEAN COUPE AMPLE XDYE",
+      "prix":350 ,
+      "photoProduit": "Image/image10.png"
+    },
+    {
+      "ID": 11,
+      "title": "JEAN SKINNY",
+      "prix":400 ,
+      "photoProduit": "Image/image11.png"
+    },
+    {
+      "ID": 12,
+      "title": "JEAN BAGGY FIT",
+      "prix":300 ,
+      "photoProduit": "Image/image12.png"
+    },
+    {
+      "ID": 13,
+      "title": "BASKETS CASUAL SEMELLE ÉPAISSE",
+      "prix":400 ,
+      "photoProduit": "Image/image13.png"
+    },
+    {
+      "ID": 14,
+      "title": "BASKETS CASUAL",
+      "prix":450 ,
+      "photoProduit": "Image/image14.png"
+    },
+    {
+      "ID": 15,
+      "title": "BASKETS CUIR RÉTRO",
+      "prix":450 ,
+      "photoProduit": "Image/image15.png"
+    },
+    {
+      "ID": 16,
+      "title": "BASKETS CASUAL COLOR BLOCK",
+      "prix":450 ,
+      "photoProduit": "Image/image16.png"
+    }
+  ]
+}
